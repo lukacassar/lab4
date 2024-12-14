@@ -18,6 +18,6 @@ void dectohex(int num) {
 }
 
 int main() {
-    int num = 450;
+    int num = 40;
     dectohex(num);
 }
