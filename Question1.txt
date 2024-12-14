@@ -1,0 +1,2 @@
+Iterative: Only one stack frame is created
+Recursive: For every recursive call there is a new stack frame being created
